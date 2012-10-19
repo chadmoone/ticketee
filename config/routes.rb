@@ -21,6 +21,11 @@ Ticketee::Application.routes.draw do
     resources :tickets
   end
 
+  namespace :admin do
+    root :to => "base#index"
+    resources :users
+  end
+
   # Sample resource route with options:
   #   resources :products do
   #     member do

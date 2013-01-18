@@ -1,0 +1,20 @@
+## Rackspace Cloud
+
+We currently use *cloud servers* on Rackspace Cloud to host most of WILL's websites and services.
+
+Some of the major benefits of cloud server over traditional servers are:
+1. **Fast startup time.**  A new server can be provisioned, created, and booted within seconds.
+2. **Image-based server creation and backup.**  Entire servers can be backed up and stored as images, and new servers can be created by cloning existing images.
+3. **Scalablility.**  Cloud servers can be resized on the fly, ranging from 1 CPU & 512MB RAM (cheap) to 8 CPUs & 30GB RAM (expensive).
+4. **Isolation.**  Because cloud servers are fast to set up and can be run on a small scale until growth is needed, it's feasible to maintain independent servers for each application.  This way, the system configuration and stability of an application does not affect others.
+
+## Ubuntu
+
+We currently use Ubuntu Linux for our servers.  There are several great Linux distributions, but Ubuntu currently has:
+* Outstanding official documentation
+* A huge depth of existing Stack Overflow and other trouble-shooting documentation
+* A massive user base and community, and active support & development
+
+Ubuntu distributes normal releases frequently, with 18-month support cycles, and Long-Term Support releases every two years, with 5-year support cycles.  We generally use the latter.
+
+For more information, browse the official [Ubuntu Server Guide](https://help.ubuntu.com/12.04/serverguide/index.html).

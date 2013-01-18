@@ -1,0 +1,41 @@
+root - xoELU8M6pKTw
+capistrano - cpUE12kH361RS7Z
+testbed - nN8XSuFzJ5tJ2yU
+
+
+openssl libreadline6 libreadline6-dev zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-dev sqlite3 libpq-dev libxml2-dev libbxslt-dev autoconf libc6-dev ncurses-dev automake libtool bison libcurl4-openssl-dev
+
+
+launchpad 
+
+root - zM6jKUufj6Xb
+launchpad - 1No3R7emZ1p1
+
+
+installing mysql gem requires installing dependend libraries:
+	sudo apt-get install libmysqlclient-dev libmysqlclient18 ruby-dev
+
+before installing nginx
+	sudo apt-get install libpcre3 libpcre3-dev
+	(was getting timeout connecting to sourceforge)
+
+
+to allow external connections to mysql
+
+$ sudo nano 
+
+
+
+
+
+PHP
+campus-production-root - YLXX7jxJNqAn
+campus-root - 5rSzuzvHFuiG
+campus db user - x3qCB68o37sIsjD
+
+RSA / Pubkey
+  on by default in ubuntu
+
+
+
+Tracker root - Vcy68MnNf395bn0
